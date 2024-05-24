@@ -1,46 +1,40 @@
-# DESAFIO FINAL - TINTA AUSTRAL
+# FINAL CHALLENGE - TINTA AUSTRAL
 
-## Hito 1 - Documentación
+Final project done in collaboration of: 
+- Claudia Villarroel - https://github.com/Klauditha
+- Orlando Flores - https://github.com/orlandoflowers
+
+## Documentation
 - Link Drive: https://drive.google.com/file/d/1IJl-vxiTdJqolQ4hV8pj9CUEPSp0zr7A/view?usp=drive_link 
-## Hito 2 - FrontEnd 
-- URL : https://desafio-proyecto-final.onrender.com/
 
-## Hito 3 - BackEnd
-- URL : https://desafio-proyecto-final-api.onrender.com/
-- URL Swagger : https://desafio-proyecto-final-api.onrender.com/api-docs/
+# Projects
 
-# Proyectos
+## FrontEnd Project
 
-## Proyecto FrontEnd
+### Configuration of .env File
 
-### Configuración archivo .env
+Locally modify the .env.example file to .env.
 
-Modificar localmente el archivo .env.example a .env.
+The variable URL_SITE must contain the URL that is being used.
 
-La variable URL_SITE debe tener la Url que se este utilizando.
+This is for the correct deployment of images.
 
-Esto es para el correcto despliegue de imagenes.
+### Test User
 
-### Nota sobre el Componente Register
+Customer User
 
-  ■ El componente de Registro incluido sirve como marcador de posición para la integración futura con un sistema backend. Actualmente, el envío del formulario no modifica ningún dato JSON ni interactúa con un servidor.
-  
-  ■ Está diseñado para demostrar el diseño y la funcionalidad de un formulario de registro de usuario.
-
-### Usuario de prueba
-
-Usuario Comprador
 - user3@example.com
 - password3
 
-Usuario Administrador
+Administrator User
+
 - user4@example.com
 - password4
 
-## Proyecto BackEnd
+## BackEnd Project
 
-### Configuración archivo .env
+### Configuration of .env File
 
-Modificar localmente el archivo .env.example a .env. con las valores que correspondan.
+Locally modify the .env.example file to .env with the corresponding values.
 
-Considerar la modificacion de variable IS_RENDER, para conexiones locales definirlo con el valor false.
+Consider modifying the IS_RENDER variable; for local connections, define it with a value of false.
