@@ -5,7 +5,7 @@ Final project done in collaboration of:
 - Orlando Flores - https://github.com/orlandoflowers
 
 ## Documentation
-- Link Drive: https://drive.google.com/file/d/1IJl-vxiTdJqolQ4hV8pj9CUEPSp0zr7A/view?usp=drive_link 
+- Link Drive: https://drive.google.com/drive/folders/1mir4-dSw57_5eLO3YoRlqWyl54d7O23T?usp=sharing 
 
 # Projects
 
