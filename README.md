@@ -1,5 +1,7 @@
 # FINAL CHALLENGE - TINTA AUSTRAL
 
+#BACKEND REMAINS OFFLINE AT THE MOMENT
+
 Final project done in collaboration of: 
 - Claudia Villarroel - https://github.com/Klauditha
 - Orlando Flores - https://github.com/orlandoflowers
